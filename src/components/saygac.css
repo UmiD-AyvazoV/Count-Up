@@ -1,0 +1,46 @@
+body {
+    background-color: #000;
+}
+
+.qutular {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+}
+
+.qutu {
+    height: 300px;
+    width: 300px;
+    line-height: 300px;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 60px;
+    margin-right: 20px;
+}
+
+.qutu1 {
+    background-color: brown;
+}
+
+.qutu2 {
+    background-color: cadetblue;
+}
+
+.qutu3 {
+    background-color: crimson;
+}
+
+.butonlar {
+    text-align: center;
+}
+
+.butonlar button {
+    background-color: rgb(117, 149, 171);
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
